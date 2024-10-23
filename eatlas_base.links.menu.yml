@@ -1,0 +1,6 @@
+eatlas_base.eatlas_category:
+  title: 'eAtlas'
+  description: 'eAtlas settings and tools'
+  route_name: system.admin_config_content
+  parent: system.admin_config
+  weight: 100

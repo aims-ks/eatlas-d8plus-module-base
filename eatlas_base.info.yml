@@ -1,0 +1,6 @@
+name: 'eAtlas Base'
+description: 'Provides base configurations and shared functionalities for eAtlas modules.'
+type: module
+core_version_requirement: '>=9'
+
+package: eAtlas
