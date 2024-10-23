@@ -1,0 +1,23 @@
+{
+  "name": "drupal/eatlas_base",
+  "description": "Provides base configurations and shared functionalities for eAtlas modules.",
+  "type": "drupal-custom-module",
+  "license": "GPL-2.0-or-later",
+  "authors": [
+    {
+      "name": "Gael Lafond",
+      "role": "Maintainer"
+    },
+    {
+      "name": "Marc Hammerton",
+      "role": "Co-maintainer"
+    }
+  ],
+  "homepage": "https://github.com/aims-ks/eatlas-d8plus-module-base",
+  "support": {
+    "issues": "https://github.com/aims-ks/eatlas-d8plus-module-base/issues",
+    "source": "https://github.com/aims-ks/eatlas-d8plus-module-base"
+  },
+  "require": {
+  }
+}
